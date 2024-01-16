@@ -13,3 +13,6 @@ This repository showcases the implementation of a binary image classification mo
 - Flatten Layer.
 - Dense Layers: Fully connected layers with ReLU activation.
 - Output Layer: Dense layer with 2 neurons for binary classification (cats and dogs).
+
+
+
